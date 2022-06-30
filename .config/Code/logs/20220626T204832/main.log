@@ -1,0 +1,10 @@
+[2022-06-26 20:48:32.340] [main] [info] update#setState idle
+[2022-06-26 20:48:34.666] [main] [info] Starting extension host with pid 24456 (fork() took 15 ms).
+[2022-06-26 20:48:54.856] [main] [info] Extension host with pid 24456 exited with code: 0, signal: null.
+[2022-06-26 20:48:56.214] [main] [info] Starting extension host with pid 24522 (fork() took 18 ms).
+[2022-06-26 20:49:02.343] [main] [info] update#setState checking for updates
+[2022-06-26 20:49:02.414] [main] [info] update#setState idle
+[2022-06-26 21:49:02.451] [main] [info] update#setState checking for updates
+[2022-06-26 21:49:02.955] [main] [info] update#setState idle
+[2022-06-26 22:49:02.465] [main] [info] update#setState checking for updates
+[2022-06-26 22:49:02.876] [main] [info] update#setState idle
